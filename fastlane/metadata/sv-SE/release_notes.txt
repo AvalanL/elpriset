@@ -1,0 +1,10 @@
+Elpriset 1.0 — första utgåvan!
+
+• Totalkostnad per kWh: spotpris + nätavgift + energiskatt + moms
+• 15-minuterspriser med 96-stapelsdiagram
+• Imorgons priser hämtas automatiskt runt kl 13
+• Smarta tips från Gnistan: bästa tid att tvätta, ladda eller laga mat
+• Widgetar för hemskärm och låsskärm
+• Alla fyra elområden: SE1, SE2, SE3, SE4
+• Prishistorik per månad med statistik
+• Helt gratis, ingen inloggning krävs

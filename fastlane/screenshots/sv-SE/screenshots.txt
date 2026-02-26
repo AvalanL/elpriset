@@ -1,0 +1,20 @@
+App Store Screenshot Headlines (Swedish)
+=========================================
+
+1. Se vad din el verkligen kostar
+   → Dashboard hero price card
+
+2. Totalkostnad — inte bara spotpris
+   → Cost breakdown (spot + grid + tax + VAT)
+
+3. Varje kvart. Hela dagen.
+   → 96-bar chart with current time marker
+
+4. Imorgons priser redan kl 13
+   → Tomorrow's prices chart
+
+5. Aktuellt pris direkt på hemskärmen
+   → Widget showcase (lock + home screen)
+
+6. Små val. Stor skillnad.
+   → Smart tips with savings estimates

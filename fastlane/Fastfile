@@ -1,0 +1,49 @@
+default_platform(:ios)
+
+platform :ios do
+  desc "Build and archive for App Store"
+  lane :build do
+    build_app(
+      scheme: "Elpriset",
+      export_method: "app-store",
+      clean: true
+    )
+  end
+
+  desc "Upload metadata and screenshots to App Store Connect"
+  lane :metadata do
+    deliver(
+      skip_binary_upload: true,
+      skip_screenshots: false,
+      force: true
+    )
+  end
+
+  desc "Build and upload to TestFlight"
+  lane :beta do
+    increment_build_number
+    build_app(
+      scheme: "Elpriset",
+      export_method: "app-store",
+      clean: true
+    )
+    upload_to_testflight(
+      skip_waiting_for_build_processing: true
+    )
+  end
+
+  desc "Full release: build, upload, and submit for review"
+  lane :release do
+    increment_build_number
+    build_app(
+      scheme: "Elpriset",
+      export_method: "app-store",
+      clean: true
+    )
+    deliver(
+      force: true,
+      submit_for_review: true,
+      automatic_release: false
+    )
+  end
+end

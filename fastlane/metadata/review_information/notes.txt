@@ -1,0 +1,12 @@
+Elpriset is a Swedish electricity price app that displays real-time spot prices with total cost calculations (grid fees, energy tax, VAT).
+
+No login or account is required. The app fetches publicly available electricity price data from elprisetjustnu.se and Energi Data Service APIs.
+
+To test the app:
+1. Launch the app — it will show the onboarding flow
+2. Select any electricity zone (SE1-SE4) or allow location access for automatic detection
+3. The dashboard shows current price, today's price chart (96 quarter-hour bars), and smart tips
+4. Pull down to refresh price data
+5. Widgets can be added to the home screen or lock screen
+
+The app works with real price data — no test account or special configuration needed.

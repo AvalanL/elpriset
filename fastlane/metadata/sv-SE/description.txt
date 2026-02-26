@@ -1,0 +1,24 @@
+Elpriset visar vad din el verkligen kostar — inte bara spotpriset, utan totalkostnaden med nätavgift, energiskatt och moms.
+
+TOTALKOSTNAD I REALTID
+De flesta elappar visar bara spotpriset. Elpriset räknar ut din faktiska kostnad per kilowattimme, baserat på ditt elnätsområde och din tariff. Så ser du direkt vad det kostar att köra diskmaskinen — just nu.
+
+15-MINUTERSPRISER
+Från och med 2025 handlas el i 15-minutersintervall. Elpriset visar alla 96 kvartar under dygnet, så du kan planera elförbrukningen mer exakt.
+
+IMORGONS PRISER KL 13
+Morgondagens priser publiceras runt kl 13 varje dag. Elpriset hämtar dem automatiskt så du kan planera kvällen och morgondagen i förväg.
+
+SMARTA TIPS
+Gnistan, vår lilla energimaskot, hjälper dig hitta billigaste timmen för tvätt, laddning eller matlagning. Små val som gör stor skillnad.
+
+WIDGETAR
+Se aktuellt pris direkt på hemskärmen eller låsskärmen — utan att öppna appen. Widgetarna uppdateras var 15:e minut.
+
+ALLA ELOMRÅDEN
+Fungerar i hela Sverige: SE1 (Luleå), SE2 (Sundsvall), SE3 (Stockholm) och SE4 (Malmö). Välj ditt område manuellt eller låt appen hitta rätt automatiskt.
+
+GRATIS OCH UTAN KONTO
+Ingen inloggning, inget elhandelsavtal. Ladda ner och se ditt elpris direkt.
+
+Elpriset hämtar data från offentliga API:er (elprisetjustnu.se och Energi Data Service) och lagrar allt lokalt på din enhet. Ingen personlig data samlas in.

@@ -1,0 +1,1 @@
+elpris,spotpris,elpris idag,timpris el,kvartspris,elpriser,totalkostnad,nätavgift,SE3,SE4,elområde
